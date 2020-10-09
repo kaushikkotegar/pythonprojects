@@ -1,7 +1,7 @@
 # summary teller
-# Made by abhra kanti Dubey
-#pip install wikipedia
 
+#pip install wikipedia
+''' python project'''
 import wikipedia
 import tkinter as tk
 from tkinter import *
